@@ -3,7 +3,7 @@ package com.guilhermebmilagre.rabbitmq.domain.internal;
 import lombok.Data;
 
 @Data
-public class Pearson {
+public class Person {
 
     private Long id;
 
